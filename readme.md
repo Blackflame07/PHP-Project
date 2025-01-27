@@ -1,4 +1,4 @@
-# Intervention Image
+# Intervention Image 
 ## PHP Image Processing
 
 [![Latest Version](https://img.shields.io/packagist/v/intervention/image.svg)](https://packagist.org/packages/intervention/image)
